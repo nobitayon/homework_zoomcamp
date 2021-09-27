@@ -1,0 +1,1 @@
+Link of AB_NYC_2019.csv : [data for homework from kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv) or [data for homework](https://raw.githubusercontent.com/alexeygrigorev/datasets/master/AB_NYC_2019.csv)
